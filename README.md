@@ -35,8 +35,8 @@ This server currently exposes four native MCP tools:
 
 1. Clone this repository directly to your machine:
 ```bash
-git clone https://github.com/your-username/building-a-custom-mcp.git
-cd building-a-custom-mcp
+git clone https://github.com/Amruth2507/build-custom-mcp.git
+cd build-custom-mcp
 ```
 
 2. Install the required Python dependencies:
